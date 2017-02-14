@@ -451,11 +451,11 @@ h1, h2, h3, h4, h5, h6 {
 	Services section
 ==================================================================*/
 
-#services {
+#dances {
     padding: 70px 0 100px;
 }
 
-#services .title {
+#dances .title {
     padding-bottom: 125px;
 }
 
@@ -484,7 +484,7 @@ h1, h2, h3, h4, h5, h6 {
 	Portfolio section
 ==================================================================*/
 
-#showcase {
+#calendar {
     padding: 75px 0;
 }
 
